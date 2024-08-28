@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "keccak": "^3.0.4",
+    "secp256k1": "^5.0.0"
+  },
+  "devDependencies": {
+    "truffle": "^5.11.5"
+  }
+}
