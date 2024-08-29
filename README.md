@@ -16,7 +16,6 @@ Welcome to the **blockchain-solidity** repository! This repository contains a co
    - **Description**: A Solidity project set up using the Truffle framework. This project includes basic contract development, migration scripts, and test cases.
    - **Key Features**:
      - Example contracts for getting started with Truffle.
-     - Automated testing with Mocha and Chai.
      - Migration scripts for deployment.
 
 ### 3. **SimpleSolidityProject**
