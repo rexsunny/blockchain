@@ -12,25 +12,32 @@ Welcome to the **blockchain-solidity** repository! This repository contains a co
      - Standard ERC20 functionality.
      - Minting and burning capabilities.
 
-### 2. **NewTruffleProject**
+### 2. **ERC-721**
+   - **Description**: Implementation of the ERC-721 token standard. This project demonstrates the creation of a non-fungible token (NFT) with unique properties, including ownership and metadata.
+   - **Key Features**:
+      - Standard ERC-721 functionality.
+      - Minting and transferring unique tokens.
+      - Metadata support for each token, including URI storage.
+
+### 3. **NewTruffleProject**
    - **Description**: A Solidity project set up using the Truffle framework. This project includes basic contract development, migration scripts, and test cases.
    - **Key Features**:
      - Example contracts for getting started with Truffle.
      - Migration scripts for deployment.
 
-### 3. **SimpleSolidityProject**
+### 4. **SimpleSolidityProject**
    - **Description**: A basic Solidity project that includes simple contracts demonstrating the fundamental concepts of smart contract development.
    - **Key Features**:
      - Basic getter and setter functions.
      - Contract deployment scripts.
 
-### 4. **blockchain_scripts**
+### 5. **blockchain_scripts**
    - **Description**: A collection of useful scripts for interacting with the Ethereum blockchain. These scripts facilitate tasks such as sending transactions, querying contract data, and managing accounts.
    - **Key Features**:
      - Scripted interaction with deployed contracts.
      - Automated ETH transfers and balance checks.
 
-### 5. **sendAndRecevieETH**
+### 6. **sendAndRecevieETH**
    - **Description**: A project that demonstrates how to send and receive ETH between accounts on the Ethereum network. It includes smart contracts for managing transactions and handling events.
    - **Key Features**:
      - Simple ETH transfer functions.
